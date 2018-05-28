@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/52> <http://datadock.io/keynsham/ndp/id/definition/buildings-text> "VARIED SHAPES DUE CONSTRUCTION OF HOUSING OVER DIFFERENT PERIODS OF TIME"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/6> <http://datadock.io/keynsham/ndp/id/definition/wildlife-text> "FOXES, DEERS, BATS PLUS MANY BIRDS INCLUDING OWLS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/70> <http://datadock.io/keynsham/ndp/id/definition/negative-text> "TWO THIRDS OF THE SITE IS WITHIN THE EA FLOOD ZONE (SEE SITE MAP ENCLOSED SHOWING FLOODING ZONE) - PHOTO OF FLOODS 2012"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.

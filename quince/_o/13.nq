@@ -1,1 +1,4 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/id/dataset/settlement.csv> <http://purl.org/dc/terms/title> "Settlement Character Assessments for Keynsham"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv/metadata>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/105> <http://datadock.io/keynsham/ndp/id/definition/character-area> "EAST OF WELLSWAY INCLUDING HIGHFIELD, OAKFIELD ROAD AND PROPERTIES ON WELLSWAY PLUS A FEW ON COURTENAY ROAD"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/24> <http://datadock.io/keynsham/ndp/id/definition/positive-text> "CLOSE TO TOWN FACILITIES."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/37> <http://datadock.io/keynsham/ndp/id/definition/layout> "irregular front-gardens back-gardens no-obvious-centre"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.

@@ -1,1 +1,5 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/102> <http://datadock.io/keynsham/ndp/id/definition/materials> "some-common"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/51> <http://datadock.io/keynsham/ndp/id/definition/views-in-text> "THERE ARE VIEWS IN FROM OTHER ESTATE ROADS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/57> <http://datadock.io/keynsham/ndp/id/definition/materials> "some-common"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/82> <http://datadock.io/keynsham/ndp/id/definition/buildings-text> "THREE PROPERTIES - GRANVILLE LODGE, OAKFIELD AND TYNING"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/96> <http://datadock.io/keynsham/ndp/id/definition/materials> "some-common"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.

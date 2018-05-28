@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/60> <http://datadock.io/keynsham/ndp/id/definition/negative-text> "NO SHELTER FOR THE MANY MOBILITY SCOOTERS ON THE ESTATE. THESE ARE STORED INDIVIDUALLY AT THE FRONT OF PROPERTIES UNDER COVERS."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/7> <http://datadock.io/keynsham/ndp/id/definition/topography-text> "SET ON AN ESCARPMENT TO THE NORTH"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/91> <http://datadock.io/keynsham/ndp/id/definition/layout-text> "BUILDINGS CLOSE TO THE ROAD. EACH HOME HAS A SMALL PLOT SURROUNDING IT."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.

@@ -1,1 +1,4 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/> <http://rdfs.org/ns/void#subset> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv> <http://datadock.io/keynsham/ndp/metadata>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/61> <http://datadock.io/keynsham/ndp/id/definition/roofs-text> "THE ROOFS TO MOST BUILDINGS ARE PITCHED. THE ROOFS ON THE DOMESTIC GARAGES ARE FLAT"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/74> <http://datadock.io/keynsham/ndp/id/definition/layout-text> "NO REAL GARDENS, THIS IS A COMMERCIAL AREA ONLY GRASS VERGES AND TREES"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/97> <http://datadock.io/keynsham/ndp/id/definition/area-number> "97"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.

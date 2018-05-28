@@ -1,1 +1,4 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/1> <http://datadock.io/keynsham/ndp/id/definition/date> "19/11/2013"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/17> <http://datadock.io/keynsham/ndp/id/definition/wildlife> "what-wildlife?"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/22> <http://datadock.io/keynsham/ndp/id/definition/positive-text> "PLEASANT TREE LINED ROAD - ST. FRANCIS ROAD"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/86> <http://datadock.io/keynsham/ndp/id/definition/wildlife> "what-wildlife?"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.

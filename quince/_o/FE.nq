@@ -1,1 +1,4 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/15> <http://datadock.io/keynsham/ndp/id/definition/views-out-text> "EXTENSIVE VIEWS TO THE NORTH ACROSS OPEN FIELDS AND SPORTS FACILITIES TO THE DISTANT ROAD AND WOODLAND"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/46> <http://datadock.io/keynsham/ndp/id/definition/roads> "through-roads"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/59> <http://datadock.io/keynsham/ndp/id/definition/wildlife-text> "ONLY WILD BIRDS SEEN"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/68> <http://datadock.io/keynsham/ndp/id/definition/wildlife-text> "PROBABLY JUST WILD BIRDS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.

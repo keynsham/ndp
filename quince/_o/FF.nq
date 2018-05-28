@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/19> <http://datadock.io/keynsham/ndp/id/definition/buildings-text> "LARGE ATTACHED RETAIL BUILDING PLUS 4 NO. 2 STOREY TERRACED HOUSES"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/36> <http://datadock.io/keynsham/ndp/id/definition/buildings-text> "SEVERAL LARGE BLOCKS OF THREE STOREY FLATS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/79> <http://datadock.io/keynsham/ndp/id/definition/views-in-text> "FROM WELLSWAY ACADEMY PLAYING FIELDS AND BROADMEAD ROUNDABOUT/A4 THERE ARE VIEWS INTO THE SITE."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.

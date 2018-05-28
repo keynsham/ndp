@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/13> <http://datadock.io/keynsham/ndp/id/definition/positive-text> "QUIET AREA WITH GOOD SPORTS FACILITIES, AMENITIES OF THE TOWN CENTRE AND KEYNSHAM STATION FOR COMMUTING"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/area-number/43> <http://datadock.io/keynsham/ndp/id/definition/buildings> "terraced semi-detached common-shapes"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
