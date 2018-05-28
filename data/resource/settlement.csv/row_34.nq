@@ -1,2 +1,0 @@
-﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_34> <http://datadock.io/keynsham/ndp/id/definition/area> "KEYNSHAM FOOTBALL CLUB INCLUDING BROADLANDS PLAYING FIELD"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_34> <http://datadock.io/keynsham/ndp/id/definition/id> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.

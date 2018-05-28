@@ -1,4 +1,1 @@
-﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_44> <http://datadock.io/keynsham/ndp/id/definition/buildings-text> "GOLF CLUB HOUSE AND ANCILLARY BUILDINGS, A ROW OF TWO STOREY PITCHED ROOFED SEMI DETACHED HOUSES, ASSORTED VERY LARGE DETACHED HOUSES."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_49> <http://datadock.io/keynsham/ndp/id/definition/spaces> "green-spaces places-where-local-events-take-place"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_87> <http://datadock.io/keynsham/ndp/id/definition/id> "45"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_94> <http://datadock.io/keynsham/ndp/id/definition/roofs-text> "THE ROOF IS PITCHED"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+﻿

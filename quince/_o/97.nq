@@ -1,4 +1,1 @@
-﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_1> <http://datadock.io/keynsham/ndp/id/definition/roofs> "flat-roofs shallow-pitch"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_19> <http://datadock.io/keynsham/ndp/id/definition/roads> "pavements kerbs grass-verges drainage-ditches straight-roads curving-roads parking-courts"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_54> <http://datadock.io/keynsham/ndp/id/definition/id> "44"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_94> <http://datadock.io/keynsham/ndp/id/definition/id> "88"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+﻿

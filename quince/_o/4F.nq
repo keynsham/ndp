@@ -1,3 +1,1 @@
-﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_58> <http://datadock.io/keynsham/ndp/id/definition/materials> "nothing-common brick stone render tile walls hedges fences tarmac concrete paving-stones"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_76> <http://datadock.io/keynsham/ndp/id/definition/layout> "irregular buildings-well-set-back front-gardens back-gardens thin-plots no-obvious-centre"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_83> <http://datadock.io/keynsham/ndp/id/definition/id> "39"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+﻿

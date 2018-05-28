@@ -1,4 +1,1 @@
-﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_21> <http://datadock.io/keynsham/ndp/id/definition/id> "33"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_60> <http://datadock.io/keynsham/ndp/id/definition/positive-text> "THE AREA IS WELL USED BY YOUTHS, THE LAND IS POPULAR WITH DOG WALKERS AND RAMBLERS."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_7> <http://datadock.io/keynsham/ndp/id/definition/roofs-text> "THE HOUSES HAVE PITCHED ROOFS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_96> <http://datadock.io/keynsham/ndp/id/definition/details-text> "BAY FRONTED WINDOWS ON PROPERTIES ON CHARLTON ROAD"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+﻿

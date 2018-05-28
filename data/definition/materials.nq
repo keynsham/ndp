@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/keynsham/ndp/id/definition/materials> <http://www.w3.org/2000/01/rdf-schema#label> "materials"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/definitions>.
-<http://datadock.io/keynsham/ndp/id/definition/roofs-text> <http://www.w3.org/2000/01/rdf-schema#label> "roofs-text"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/definitions>.

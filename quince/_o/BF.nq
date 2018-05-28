@@ -1,4 +1,1 @@
-﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_1> <http://datadock.io/keynsham/ndp/id/definition/roofs-text> "VERY SHALLOW PITCHED MAIN ROOF TO THE SCHOOL BUILDING"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_47> <http://datadock.io/keynsham/ndp/id/definition/roads> "drainage-ditches"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_60> <http://datadock.io/keynsham/ndp/id/definition/roads> "drainage-ditches"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_82> <http://datadock.io/keynsham/ndp/id/definition/date> "2014-02-04"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+﻿

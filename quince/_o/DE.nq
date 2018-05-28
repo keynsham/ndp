@@ -1,5 +1,1 @@
-﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_21> <http://datadock.io/keynsham/ndp/id/definition/area> "NORTH OF QUEENS ROAD INCLUDING CAERNARVON ROAD, MONMOUTH ROAD, LUDLOW CLOSE, ARUNDEL WALK, RAGLAN WALK, BARNARD WALK, CHEPSTOW WALK AND DONNINGTON WALK"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_56> <http://datadock.io/keynsham/ndp/id/definition/wildlife-text> "MAINLY BY WILD BIRDS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_58> <http://datadock.io/keynsham/ndp/id/definition/weather> "sunny"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_72> <http://datadock.io/keynsham/ndp/id/definition/id> "54"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_90> <http://datadock.io/keynsham/ndp/id/definition/negative-text> "UNATTRACTIVE SQUARE BLOCKS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+﻿

@@ -1,5 +1,1 @@
-﻿<http://datadock.io/keynsham/ndp/id/dataset/settlement.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_5> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv/metadata>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_27> <http://datadock.io/keynsham/ndp/id/definition/id> "101"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_59> <http://datadock.io/keynsham/ndp/id/definition/id> "67"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_70> <http://datadock.io/keynsham/ndp/id/definition/roofs-text> "FLAT ROOFS ON MORE MODERN HOUSING. PITCHED ROOFS ON OLDER HOUSING. ROOFS ARE CLAY TILE & SLATE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_8> <http://datadock.io/keynsham/ndp/id/definition/roofs-text> "THE ROOFS TO THE PROPERTIES ARE SHALLOW PITCHED"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+﻿

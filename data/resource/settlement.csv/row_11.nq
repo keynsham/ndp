@@ -1,3 +1,0 @@
-﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_11> <http://datadock.io/keynsham/ndp/id/definition/area> "BRISTOL GREEN BELT 1 - FROM STOCKWOOD VALE SOUTH TO LAYS FARM"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_11> <http://datadock.io/keynsham/ndp/id/definition/date> "2014-01-22"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_11> <http://datadock.io/keynsham/ndp/id/definition/id> "20"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.

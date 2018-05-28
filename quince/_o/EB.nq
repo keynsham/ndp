@@ -1,4 +1,1 @@
-﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_101> <http://datadock.io/keynsham/ndp/id/definition/spaces-text> "RESIDENTIAL AND RECREATIONAL"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_106> <http://datadock.io/keynsham/ndp/id/definition/materials> "some-common brick stone render hung-tile slate other"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_38> <http://datadock.io/keynsham/ndp/id/definition/details-text> "CHAIN LINK FENCING SURROUNDING PLAY AREA"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_67> <http://datadock.io/keynsham/ndp/id/definition/roads-text> "ON-STREET PARKING, PAVEMENTS, KERBS, TRHOUGH ROADS PATHS."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+﻿
