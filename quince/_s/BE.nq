@@ -1,1 +1,2 @@
-﻿<http://datadock.io/keynsham/ndp/id/definition/greenery-text> <http://www.w3.org/2000/01/rdf-schema#label> "greenery-text"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/definitions>.
+﻿<http://datadock.io/keynsham/ndp/id/definition/boundaries-text> <http://www.w3.org/2000/01/rdf-schema#label> "boundaries-text"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/definitions>.
+<http://datadock.io/keynsham/ndp/id/definition/greenery-text> <http://www.w3.org/2000/01/rdf-schema#label> "greenery-text"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/definitions>.
