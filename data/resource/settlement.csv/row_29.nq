@@ -1,0 +1,3 @@
+﻿<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_29> <http://datadock.io/keynsham/ndp/id/definition/area> "ABBOTS WOOD PLUS GREEN LAND TO THE SOUTH OF HOLMOAK ROAD"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_29> <http://datadock.io/keynsham/ndp/id/definition/date> "2013-12-12"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/settlement.csv/row_29> <http://datadock.io/keynsham/ndp/id/definition/id> "41"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv>.
