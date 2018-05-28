@@ -2,4 +2,5 @@
 Neighbourhood Development Plan
 
 Including:
-Placemaking Plan - Character assessments for the town of Keynsham (2014)
+Settlement Character assessments for Keynsham (2014)
+Landscape Character assessments for Keynsham (2014)
