@@ -1,1 +1,8 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/2-103> <http://datadock.io/keynsham/ndp/id/dataset/images.csv#image-url> <https://keynsham.github.io/images/2/image103.jpeg> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/2-103> <http://datadock.io/keynsham/ndp/id/definition/area-number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/2-103> <http://datadock.io/keynsham/ndp/id/definition/area-photo> "2-103"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/2-103> <http://datadock.io/keynsham/ndp/id/definition/caption> "Scrub woodland looking north"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/2-103> <http://datadock.io/keynsham/ndp/id/definition/grid-reference> "ST642693"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/44-1> <http://datadock.io/keynsham/ndp/id/dataset/images.csv#image-url> <https://keynsham.github.io/images/44/image1.jpeg> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/44-1> <http://datadock.io/keynsham/ndp/id/definition/area-number> "44"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/44-1> <http://datadock.io/keynsham/ndp/id/definition/area-photo> "44-1"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.

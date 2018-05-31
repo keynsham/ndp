@@ -1,1 +1,8 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/2-83> <http://datadock.io/keynsham/ndp/id/dataset/images.csv#image-url> <https://keynsham.github.io/images/2/image83.jpeg> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/2-83> <http://datadock.io/keynsham/ndp/id/definition/area-number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/2-83> <http://datadock.io/keynsham/ndp/id/definition/area-photo> "2-83"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/2-83> <http://datadock.io/keynsham/ndp/id/definition/caption> "Advertising signboards"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/2-83> <http://datadock.io/keynsham/ndp/id/definition/grid-reference> "ST642697"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/33-7> <http://datadock.io/keynsham/ndp/id/dataset/images.csv#image-url> <https://keynsham.github.io/images/33/image7.jpeg> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/33-7> <http://datadock.io/keynsham/ndp/id/definition/area-number> "33"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/33-7> <http://datadock.io/keynsham/ndp/id/definition/area-photo> "33-7"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.

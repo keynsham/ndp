@@ -1,1 +1,6 @@
-﻿
+﻿<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/13-3> <http://datadock.io/keynsham/ndp/id/dataset/images.csv#image-url> <https://keynsham.github.io/images/13/image3.jpeg> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/13-3> <http://datadock.io/keynsham/ndp/id/definition/area-number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/13-3> <http://datadock.io/keynsham/ndp/id/definition/area-photo> "13-3"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/33-6> <http://datadock.io/keynsham/ndp/id/dataset/images.csv#image-url> <https://keynsham.github.io/images/33/image6.jpeg> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/33-6> <http://datadock.io/keynsham/ndp/id/definition/area-number> "33"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
+<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/33-6> <http://datadock.io/keynsham/ndp/id/definition/area-photo> "33-6"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
