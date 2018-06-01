@@ -1,6 +1,5 @@
 ﻿<http://datadock.io/keynsham/ndp/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Keynsham Town Council" <http://datadock.io/keynsham/ndp/metadata>.
 <http://datadock.io/keynsham/ndp/id/dataset/publisher> <http://xmlns.com/foaf/0.1/name> "Keynsham Town Council" <http://datadock.io/keynsham/ndp/metadata>.
-<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/2-58> <http://datadock.io/keynsham/ndp/id/definition/area-photo> "2-58"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
 <http://datadock.io/keynsham/ndp/id/resource/landscape.csv/area-number/20> <http://datadock.io/keynsham/ndp/id/definition/date> "22/01/14"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/keynsham/ndp/id/dataset/landscape.csv>.
 <http://datadock.io/keynsham/ndp/id/resource/landscape.csv/area-number/33> <http://datadock.io/keynsham/ndp/id/definition/date> "04/02/20"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/keynsham/ndp/id/dataset/landscape.csv>.
 <http://datadock.io/keynsham/ndp/id/resource/landscape.csv/area-number/37> <http://datadock.io/keynsham/ndp/id/definition/landcover-text> "HOUSES, ROADS AND SMALL GREEN SPACES"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/landscape.csv>.
