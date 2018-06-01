@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/44-10> <http://datadock.io/keynsham/ndp/id/dataset/images.csv#image-url> <https://keynsham.github.io/images/44/image10.jpeg> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
 <http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/44-10> <http://datadock.io/keynsham/ndp/id/definition/area-number> "44"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
-<http://datadock.io/keynsham/ndp/id/resource/images.csv/area-photo/44-10> <http://datadock.io/keynsham/ndp/id/definition/area-photo> "44-10"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/keynsham/ndp/id/dataset/images.csv>.
