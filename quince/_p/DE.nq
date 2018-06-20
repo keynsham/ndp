@@ -1,3 +1,4 @@
-﻿<http://datadock.io/keynsham/ndp/id/dataset/images.csv> <http://purl.org/dc/terms/modified> "2018-06-01"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/keynsham/ndp/id/dataset/images.csv/metadata>.
+﻿<http://datadock.io/keynsham/ndp/id/dataset/character.csv> <http://purl.org/dc/terms/modified> "2018-06-20"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/keynsham/ndp/id/dataset/character.csv/metadata>.
+<http://datadock.io/keynsham/ndp/id/dataset/images.csv> <http://purl.org/dc/terms/modified> "2018-06-01"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/keynsham/ndp/id/dataset/images.csv/metadata>.
 <http://datadock.io/keynsham/ndp/id/dataset/landscape.csv> <http://purl.org/dc/terms/modified> "2018-06-01"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/keynsham/ndp/id/dataset/landscape.csv/metadata>.
 <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv> <http://purl.org/dc/terms/modified> "2018-06-01"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/keynsham/ndp/id/dataset/settlement.csv/metadata>.
